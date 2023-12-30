@@ -9,7 +9,7 @@ async function getPosts() {
       const card = document.createElement('div');
       card.classList.add('card');
       card.innerHTML = `
-        <img src="https://github.com/TimaGitler/Project/raw/cards/images/car.gif" alt="car-GIF">
+        <img src="images/car.gif" alt="car-GIF">
         <h3>${title}</h3>
         <p>${body}</p>
       `;
