@@ -17,6 +17,7 @@
       width: 100%;
       border-radius: 5px;
       margin-bottom: 10px;
+      background-image: url("../images/Lich_King.gif");
     }
 
     .card h3 {
